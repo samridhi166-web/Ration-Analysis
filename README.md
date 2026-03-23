@@ -1,2 +1,2 @@
-# Ration-Analysis
+# Ratio-Analysis
 Ratio Analysis of companies 
