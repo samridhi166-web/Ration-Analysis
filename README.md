@@ -1,2 +1,2 @@
 # Ratio-Analysis
-Ratio Analysis of companies 
+In this Project, multiple ratios of HDFC Bank have been calculated using python
